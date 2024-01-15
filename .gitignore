@@ -1,5 +1,5 @@
 #IGNORE all .log or pdf 
-*.log
+
 *.pdf
 
 
